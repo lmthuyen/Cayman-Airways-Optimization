@@ -1,0 +1,16 @@
+Destination,Airport Code,Distance (nm),Est. Landing Fee,Avg. Ticket Price,Fuel Burn (GPH),Fleet Type
+Miami,MIA,384,$350,$257,750,737 MAX 8
+New York,JFK,"1,338",$850,$350,750,737 MAX 8
+Los Angeles,LAX,"2,189",$920,$480,750,737 MAX 8
+Denver,DEN,"1,516",$750,$440,750,737 MAX 8
+Tampa,TPA,442,$310,$285,750,737 MAX 8
+Havana,HAV,232,$400,$110,750,737 MAX 8
+Kingston,KIN,267,$380,$235,750,737 MAX 8
+Montego Bay,MBJ,192,$320,$210,750,737 MAX 8
+Panama City,PTY,632,$450,$315,750,737 MAX 8
+La Ceiba,LCE,344,$280,$290,750,737 MAX 8
+Roatan,RTB,312,$290,$305,750,737 MAX 8
+Barbados,BGI,"1,124",$520,$410,750,737 MAX 8
+Austin,AUS,"1,022",$440,$390,750,737 MAX 8
+Cayman Brac,CYB,80,$80,$95,140,Saab 340B+
+Little Cayman,LYB,71,$60,$95,140,Saab 340B+
